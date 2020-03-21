@@ -28,3 +28,12 @@ rm -rf macos/
 flutter config --enable-macos-desktop
 flutter run -d macOS
 ```
+
+
+## Screenshot
+
+### Desktop deployment on MacOS
+
+![Desktop MacOS](desktopScreenshot.png)
+
+![Transition](transition.png)
